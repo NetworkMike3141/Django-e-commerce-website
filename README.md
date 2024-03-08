@@ -5,7 +5,7 @@ Installation
 
 Download all files into a folder, open the folder with PyCharm.
 
-In terminal:
+In PyCharm terminal:
 
 cd mysite
 
